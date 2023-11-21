@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-16T15:48:33 IST" name="Default suite" finished-at="2023-11-16T15:48:50 IST" duration-ms="16462">
+    <groups>
+    </groups>
+    <test started-at="2023-11-16T15:48:33 IST" name="Default test" finished-at="2023-11-16T15:48:50 IST" duration-ms="16462">
+      <class name="com.luma.testcase.HomPageTest">
+        <test-method is-config="true" signature="steup()[pri:0, instance:com.luma.testcase.HomPageTest@2a7f1f10]" started-at="2023-11-16T15:48:33 IST" name="steup" finished-at="2023-11-16T15:48:44 IST" duration-ms="10744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- steup -->
+        <test-method signature="validateTitle()[pri:1, instance:com.luma.testcase.HomPageTest@2a7f1f10]" started-at="2023-11-16T15:48:44 IST" name="validateTitle" finished-at="2023-11-16T15:48:47 IST" duration-ms="3029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method signature="validateLogo()[pri:2, instance:com.luma.testcase.HomPageTest@2a7f1f10]" started-at="2023-11-16T15:48:47 IST" name="validateLogo" finished-at="2023-11-16T15:48:47 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method signature="shopYoga()[pri:3, instance:com.luma.testcase.HomPageTest@2a7f1f10]" started-at="2023-11-16T15:48:47 IST" name="shopYoga" finished-at="2023-11-16T15:48:49 IST" duration-ms="1947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopYoga -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcase.HomPageTest@2a7f1f10]" started-at="2023-11-16T15:48:49 IST" name="tearDown" finished-at="2023-11-16T15:48:50 IST" duration-ms="570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcase.HomPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
